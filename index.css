@@ -1,8 +1,8 @@
 body
 {
-    background-image: url(/images/table.png);
+    background-image: url(../images/table.png);
     background-size:cover;
-    background-repeat: no-repeat;
+    max-width: 100%;
     text-align: center;
 }
 h1 {
